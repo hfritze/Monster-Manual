@@ -16,4 +16,4 @@ For example, the image below is the output for the Ice Mephit, which was one of 
 
 While this type of program is not a new idea, it is meant to show my ability to parse and visualize data in a simple way, as well as scrape PDFs for only the most useful information (in this case, the page numbers corresponding to a given monster). There were a few issues with the PDF quality, which caused the scraper to see some I's as l's, and some c's as e's. That has been fixed with a set of hard lines in the code for known monster names with that problem. Future steps for this code include finding a way to automate an adaptation to that issue instead of hard-lining the name changes.
 
-Note: to use this code, you need `DD.py`, `Monster_Manual.pdf`, and `D&D_5e_Monster_Manual.csv`.
+Note: to use this code, you need `DD.py`, `Monster Manual.pdf`, and `D&D_5e_Monster_Manual.csv`. The Monster Manual pdf is too large to opload to github, but can be found at http://orkerhulen.dk/onewebmedia/Monster%20Manual.pdf
